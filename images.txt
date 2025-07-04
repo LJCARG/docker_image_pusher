@@ -1,4 +1,4 @@
-openwebui
+ghcr.io/open-webui/open-webui:main
 #支持私库
 ghcr.io/open-webui/open-webui:main
 #xhofe/alist:latest
